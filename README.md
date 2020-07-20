@@ -15,6 +15,10 @@ ACF (advanced custom fields), permite agregar campos de contenido adicional dent
 
 Contact Form 7, con el se pueden crear, personalizar los formularios y el contenido de los correos, se usa sencillamente agregando un pequeño código en la pagina donde se desee usar.
 
+Custom Post Types (en esta ocasión se agregaron como plugins para no sobre cargar el archivo functions.php), es contenido nuevo que podemos, independiente de los Post y las Páginas, en este proyecto se utilizó para añadir el listado de clases, instructores y testimoniales, se separa de esta forma ya que entre ellos no comparten la misma información. 
+
+Widget, es un bloque de código que permite agregar, contenido o funciones específicas, en este theme se ocupo para poner las entradas recientes del blog asi como sus categorías.
+
 ## BIBLIOGRAFÍA
 
 https://kinsta.com/es/blog/por-que-usar-wordpress/
